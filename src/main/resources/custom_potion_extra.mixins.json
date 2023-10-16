@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "tomatopuddin.custompotionextra.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "custom_potion_extra.refmap.json",
+  "mixins": [
+    "EffectInstanceMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
