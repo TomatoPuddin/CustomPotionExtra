@@ -5,7 +5,8 @@
   "compatibilityLevel": "JAVA_8",
   "refmap": "custom_potion_extra.refmap.json",
   "mixins": [
-    "EffectInstanceMixin"
+    "EffectInstanceMixin",
+    "SuspiciousStewItemMixin"
   ],
   "injectors": {
     "defaultRequire": 1
